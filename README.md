@@ -2,6 +2,12 @@
 
 #  Hi There, TIL 👋
 
+## ❗Announcement 
+
+**당분간 TIL 금지**
+
+<a href = "https://github.com/yeb0/TIL/blob/main/23.03/03.25.md">이유</a>
+
 ## Today I Learned
 
 </div>
